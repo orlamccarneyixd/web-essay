@@ -1,3 +1,3 @@
 # web-essay
 
-[ https://orlamccarneyixd.github.io/web-essay/index.html]
+https://orlamccarneyixd.github.io/web-essay/index.html
